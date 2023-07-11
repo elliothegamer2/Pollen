@@ -14,6 +14,7 @@ echo "# - OlyB                                       #"
 echo "# - Rafflesia                                  #"
 echo "# - Scaratek                                   #"
 echo "# - r58Playz                                   #"
+echo "#  suck my peepeepoopoo                        #"
 echo "+##############################################+"
 echo "May Ultrablue Rest in Peace, o7"
 
