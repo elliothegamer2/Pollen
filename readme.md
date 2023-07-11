@@ -8,7 +8,7 @@ chromeOS User Policy Editor
   - Open Crosh
   - Run `shell`
   - Run `sudo su`
-  - Run `curl -Ls https://mercuryworkshop.github.io/Pollen/Pollen.sh | bash`
+  - Run `curl -Ls  https://github.com/elliothegamer2/Pollen/Pollen.sh | bash`
   - Done! It may take a few seconds for the new policy to apply. If it does not apply, press `alt+vol_up+x`.
 - PollenFS (RootFS)
   - Note: Disabling RootFS **will** Soft-Brick your Chromebook when booting back into normal mode.
